@@ -1,0 +1,9 @@
+taski-docker
+└── backend
+    ├── .env
+    ├── Dockerfile
+    ├── api
+    |   └── tests.py # Тесты
+    ├── backend
+    ├── manage.py
+    └── requirements.txt
